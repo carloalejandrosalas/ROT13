@@ -1,0 +1,18 @@
+.contenido{
+  margin-top: 60px;
+  margin-left: 30px;
+  font-family: sans-serif;
+  color: #595757;
+}
+
+.wrap{
+  background-color: #f0f7ff;
+  padding: 20px;
+  margin-top: 20px;
+  width: 400px;
+}
+
+.cuadro{
+  width: 400px;
+  max-width: 400px;
+}
